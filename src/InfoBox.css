@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(128, 128, 128, 0.078);
+}
+.InfoBox{
+    text-align: center;
+  }
+
+.cardContainer{
+    display: flex;
+    justify-content: center;
+}
+
+
